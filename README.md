@@ -278,14 +278,14 @@ task_queue.pop();
 
 ### Implemented Features
 
-#### Week 2: Core Implementation ✅
+#### Week 2: Core Implementation
 - [x] PeerNode class with thread-safe task queue
 - [x] Worker threads with sleep-based simulation
 - [x] Local load monitoring and metrics
 - [x] Threshold-based offloading logic
 - [x] Comprehensive logging system
 
-#### Week 3: Distributed Communication ✅
+#### Week 3: Distributed Communication
 - [x] NetworkManager for message routing
 - [x] Gossip-based load updates
 - [x] Peer-to-peer task migration
